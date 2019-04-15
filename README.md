@@ -1,3 +1,19 @@
+# Open Data Sets example notebooks
+
+This repository contains example notebooks demonstrating the [Open Data Sets](https://azure.microsoft.com/en-us/services/opendatasets/) Python SDK which allows you to enrich, and get open data sets using Azure.  The OpenDataSets SDK allows you the choice of using local or cloud compute resources, while managing and maintaining the complete data from the cloud.
+
+## Quick installation
+```sh
+pip install azureml-sdk[opendatasets]
+```
+
+## How to navigate and use the example notebooks?
+
+## Tutorials
+
+## How to use Azure ML
+
+## Documentation
 
 # Contributing
 
