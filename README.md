@@ -4,7 +4,7 @@ This repository contains example notebooks demonstrating the [Open Data Sets](ht
 
 ## Quick installation
 ```sh
-pip install azureml-sdk[opendatasets]
+pip install azureml-contrib-opendatasets --index-url https://azuremlsdktestpypi.azureedge.net/sdk-release/master/588E708E0DF342C4A80BD954289657CF --extra-index-url https://pypi.python.org/simple
 ```
 
 ## How to navigate and use the example notebooks?
