@@ -10,11 +10,11 @@ pip install azureml-contrib-opendatasets --index-url https://azuremlsdktestpypi.
 ## How to navigate and use the example notebooks?
 
 > * To use tutorials/enrich_demo_data_spark.ipynb, you should already have an Azure Subscription, and have created an
->   Azure Databricks Workspace. You should have installed pandas=0.23.0 (or above). Upload the notebook over there, and
+>   Azure Databricks Workspace. You should have installed pandas==0.23.0 (or above). Upload the notebook over there, and
 >   clike 'Run'.
 
 > * To use tutorials/enrich_demo_data.ipynb, either you already have a Azure Databricks Workspace, or you have your own
->   Jupyter server. Then you simply upload the notebook overthere, and run.
+>   Jupyter server. Then you simply upload the notebook overthere to run it.
 
 
 ## Tutorials
