@@ -4,7 +4,7 @@ This repository contains example notebooks demonstrating the [Open Datasets](htt
 
 ## Quick installation
 ```sh
-pip install azureml-contrib-opendatasets
+pip install azureml-opendatasets
 ```
 
 ## How to navigate and use the example notebooks?
@@ -22,7 +22,7 @@ Alternatively, you can setup your own SPARK cluster and run it there.
 
 ## API reference
 
-Detailed API references are available [here](https://docs.microsoft.com/en-us/python/api/azureml-contrib-opendatasets/?view=azure-ml-py). 
+Detailed API references are available [here](https://docs.microsoft.com/en-us/python/api/azureml-opendatasets/?view=azure-ml-py).
 
 ## Known issues
 * Some datasets have limitations on time range for each access using Pandas, to avoid long response time or memory errors. 
