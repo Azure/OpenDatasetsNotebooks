@@ -24,12 +24,6 @@ Alternatively, you can setup your own SPARK cluster and run it there.
 
 Detailed API references are available [here](https://docs.microsoft.com/en-us/python/api/azureml-opendatasets/?view=azure-ml-py).
 
-## Known issues
-* Some datasets have limitations on time range for each access using Pandas, to avoid long response time or memory errors. 
-But you can find ways to load more in the tutorials if you have a powerful machine and accept longer loading time.
-* enrich_customer_data_*() methods can be slow when there are a lot of distinct latitude + longitude to join with. One way for optimize is to reduce the distinct count in customer data. 
-
-
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
