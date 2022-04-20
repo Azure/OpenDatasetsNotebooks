@@ -1,6 +1,6 @@
 # Open Datasets Example Notebooks
 
-This repository contains example notebooks demonstrating the [Open Datasets](https://azure.microsoft.com/en-us/services/opendatasets/) Python SDK which allows you to enrich, and get open datasets using Azure.  The OpenDataSets SDK allows you the choice of using local or cloud compute resources, while managing and maintaining the complete data from the cloud.
+This repository contains example notebooks demonstrating the [Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/) Python SDK which allows you to enrich, and get open datasets using Azure.  The OpenDataSets SDK allows you the choice of using local or cloud compute resources, while managing and maintaining the complete data from the cloud.
 
 ## Quick installation
 ```sh
