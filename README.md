@@ -1,6 +1,6 @@
 # Open Datasets Example Notebooks
 
-This repository contains example notebooks demonstrating the [Open Datasets](https://azure.microsoft.com/en-us/services/opendatasets/) Python SDK which allows you to enrich, and get open datasets using Azure.  The OpenDataSets SDK allows you the choice of using local or cloud compute resources, while managing and maintaining the complete data from the cloud.
+This repository contains example notebooks demonstrating the [Open Datasets](https://azure.microsoft.com/en-us/services/open-datasets/) Python SDK which allows you to enrich, and get open datasets using Azure.  The OpenDataSets SDK allows you the choice of using local or cloud compute resources, while managing and maintaining the complete data from the cloud.
 
 ## Quick installation
 ```sh
@@ -22,7 +22,7 @@ Alternatively, you can setup your own SPARK cluster and run it there.
 
 ## API reference
 
-Detailed API references are available [here](https://docs.microsoft.com/en-us/python/api/azureml-opendatasets/?view=azure-ml-py).
+Detailed API references are available [here](https://docs.microsoft.com/en-us/python/api/azureml-opendatasets/azureml.opendatasets?view=azure-ml-py).
 
 # Contributing
 
